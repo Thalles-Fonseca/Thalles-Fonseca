@@ -94,9 +94,8 @@ Busco continuar evoluindo tecnicamente através da prática, construção de pro
 
 📫 Vamos trabalhar juntos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thalles-fonseca-correa
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/thalles-fonseca-correa
 
-)
 ⭐ Se algum dos meus projetos for interessante, fique à vontade para explorar os repositórios!
 
 
