@@ -86,6 +86,20 @@ Sistema de gestão desenvolvido em Java e MySQL como projeto acadêmico de Desen
 
 ---
 
+ 🎯 Objetivo profissional
+
+Meu objetivo é atuar como Desenvolvedor Backend Java Júnior, contribuindo para o desenvolvimento de sistemas, APIs e soluções que resolvam problemas reais.
+
+Busco continuar evoluindo tecnicamente através da prática, construção de projetos e aprendizado contínuo.
+
+📫 Vamos trabalhar juntos?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thalles-fonseca-correa
+
+)
+⭐ Se algum dos meus projetos for interessante, fique à vontade para explorar os repositórios!
+
+
 ## 📚 Atualmente estudando
 
 ```text
@@ -107,3 +121,5 @@ Desenvolvimento
  ├── Docker
  ├── Deploy
  └── CI/CD
+
+
